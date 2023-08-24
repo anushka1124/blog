@@ -8,7 +8,7 @@ Welcome to my blog website! This project showcases a simple blog website built u
 - Implement pagination to navigate through blog posts.
 - Use `AppContext` to manage the application's state and share data between components.
 
-you can visit at [https://random-gif-qbi7.vercel.app/] 🧑🏻‍💻🧑🏻‍💻
+you can visit at [https://blog-zsro.vercel.app/] 🧑🏻‍💻🧑🏻‍💻
 
 ![Image](https://imgur.com/aMMsj37.png);
 ![Image](https://imgur.com/jUlDNKK.png);
